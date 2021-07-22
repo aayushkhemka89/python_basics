@@ -1,2 +1,3 @@
-# python_basics
-A series of notebooks for tutorials on basics of python
+# Python Tutorials Basic
+
+Notebooks on different basic topics on python.
